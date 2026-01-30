@@ -41,7 +41,7 @@ face-mask-recognition/
 
 
 1️⃣ Clone the repository
-''' bash
+```bash
 git clone https://github.com/ankitaa07/face-mask-recognition.git
 cd face-mask-recognition
 
