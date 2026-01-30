@@ -63,22 +63,23 @@ python src/detect_mask_video.py
 - Press Q to stop the program.
 ```
 📊 Model Details
-
+```bash
 -Convolutional Neural Network (CNN)
 -Trained for binary classification (Mask / No Mask)
 -Model stored in .h5 format
 -Optimized for real-time webcam usage
-
+```
 🚀 Future Enhancements
-
+```bash
 -Display prediction confidence percentage
 -Transfer learning using MobileNet
 -Email or SMS alerts
 -Web deployment using Flask / FastAPI
 -Face recognition with identity tracking
-
+```
 👩‍💻 Author
-
+```bash
 Ankita Mundra
 CSE Undergraduate
 Interested in Artificial Intelligence, Machine Learning, and Computer Vision
+```
