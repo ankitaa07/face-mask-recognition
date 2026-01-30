@@ -27,6 +27,7 @@ This project demonstrates practical application of CNNs for real-world safety an
 ---
 
 ## 📂 Project Structure
+```bash
 face-mask-recognition/
 │── src/
 │ ├── detect_mask_video.py
@@ -34,14 +35,14 @@ face-mask-recognition/
 │── requirements.txt
 │── .gitignore
 │── README.md
-
+```
 ---
 
 ## ⚙️ Setup Instructions
 
-
-1️⃣ Clone the repository
 ```bash
+1️⃣ Clone the repository
+
 git clone https://github.com/ankitaa07/face-mask-recognition.git
 cd face-mask-recognition
 
@@ -60,7 +61,7 @@ python src/detect_mask_video.py
 - The webcam starts automatically.
 - A sound alert is triggered when a person without a mask is detected.
 - Press Q to stop the program.
-
+```
 📊 Model Details
 
 -Convolutional Neural Network (CNN)
