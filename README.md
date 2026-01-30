@@ -43,7 +43,6 @@ face-mask-recognition/
 ```bash
 git clone https://github.com/ankitaa07/face-mask-recognition.git
 cd face-mask-recognition
-
 2️⃣ Create a virtual environment
 python -m venv venv
 
